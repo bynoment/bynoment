@@ -33,4 +33,4 @@
 
 
 
-[![](https://github-readme-stats.vercel.app/api?username=bynoment)]()
+![](https://github-readme-stats.vercel.app/api?username=bynoment&show_icons=true&theme=dark)
