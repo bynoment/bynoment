@@ -34,5 +34,5 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=bynoment&show_icons=true&theme=dark)
-[![](https://github-readme-stats.vercel.app/api/bynoment?username=bynoment)]()
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/bynoment?username=bynoment)](https://github.com/anuraghazra/github-readme-stats)
  
