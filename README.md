@@ -43,4 +43,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=bynoment&show_icons=true&theme=dark)
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=bynoment)]()
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bynoment)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bynoment&theme=neon-dark)](#)
